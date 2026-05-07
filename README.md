@@ -17,3 +17,4 @@ Contents：
 - [News Now 最热](https://newsnow.busiyi.world/)
 - [今日热榜](https://tophub.today/)
 - [推特起爆帖监控](https://sopilot.net/zh/hot-tweets)
+- [AIHot](https://aihot.virxact.com/)
