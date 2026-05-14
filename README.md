@@ -18,3 +18,4 @@ Contents：
 - [今日热榜](https://tophub.today/)
 - [推特起爆帖监控](https://sopilot.net/zh/hot-tweets)
 - [AIHot](https://aihot.virxact.com/)
+- [AIGC Idea](https://www.aigcidea.com/)
