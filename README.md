@@ -20,3 +20,4 @@ Contents：
 - [AIHot](https://aihot.virxact.com/)
 - [AIGC Idea](https://www.aigcidea.com/)
 - [News Now](https://news.mksaas.link/)
+- [X榜单](https://xbangdan.com/)
